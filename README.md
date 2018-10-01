@@ -1,7 +1,7 @@
 # keywords-for-google-adwords
-Automatically generate keywords for a search engine marketing campaign.
+The goal is to automatically generate keywords for a search engine marketing campaign.
 
-Based on [this DataCamp project](https://www.datacamp.com/projects/400).
+This notebook is based on [this DataCamp project](https://www.datacamp.com/projects/400).
 
 ## Project Description
 You work for a digital marketing agency, which is approached by a massive online retailer of furniture. You are tasked with creating a prototype set of keywords for search campaigns for their sofas section. With your Python skills, you will efficiently create these keywords!
